@@ -1,6 +1,6 @@
 
 import pandas as pd
-class MLUtils:
+class loadIt:
     def __init__(self, data_path=None):
         self.data_path = data_path
         self.data = None
