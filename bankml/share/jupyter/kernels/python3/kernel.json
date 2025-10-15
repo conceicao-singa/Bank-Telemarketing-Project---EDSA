@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "C:/Users/DELL/OneDrive/Data Science/Bank-Telemarketing-Project---EDSA/bankml/python.exe",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python 3 (ipykernel)",
+  "language": "python",
+  "metadata": {
+    "debugger": true
+  }
+}

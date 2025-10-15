@@ -1,0 +1,58 @@
+{
+  "build": "h214f63a_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\DELL\\anaconda3\\pkgs\\tbb-2022.0.0-h214f63a_0",
+  "files": [
+    "Library/bin/tbb12.dll",
+    "Library/bin/tbbmalloc.dll",
+    "Library/bin/tbbmalloc_proxy.dll"
+  ],
+  "fn": "tbb-2022.0.0-h214f63a_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\DELL\\anaconda3\\pkgs\\tbb-2022.0.0-h214f63a_0",
+    "type": 1
+  },
+  "md5": "2c07cbaecbb2d7149e70844e9a4490d5",
+  "name": "tbb",
+  "package_tarball_full_path": "C:\\Users\\DELL\\anaconda3\\pkgs\\tbb-2022.0.0-h214f63a_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/tbb12.dll",
+        "path_type": "hardlink",
+        "sha256": "d048ed44620eb350815088fc5ac48946aeb6e93838f22d8f487b324353c9848c",
+        "sha256_in_prefix": "d048ed44620eb350815088fc5ac48946aeb6e93838f22d8f487b324353c9848c",
+        "size_in_bytes": 349968
+      },
+      {
+        "_path": "Library/bin/tbbmalloc.dll",
+        "path_type": "hardlink",
+        "sha256": "15afb1e767aecd8a5081d7fe2818adf5198ad9c919e027caabf3bf73528f8a1a",
+        "sha256_in_prefix": "15afb1e767aecd8a5081d7fe2818adf5198ad9c919e027caabf3bf73528f8a1a",
+        "size_in_bytes": 124688
+      },
+      {
+        "_path": "Library/bin/tbbmalloc_proxy.dll",
+        "path_type": "hardlink",
+        "sha256": "a5c7d68909f0b6f24cd411c5cc519e360c3fd3d63965de333894e6859758c123",
+        "sha256_in_prefix": "a5c7d68909f0b6f24cd411c5cc519e360c3fd3d63965de333894e6859758c123",
+        "size_in_bytes": 43280
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "tbb==2022.0.0=h214f63a_0",
+  "sha256": "81a2670df558f8bf4e219bddcc6b8fa04b510778ce5e038b61c279818522d0dc",
+  "size": 181359,
+  "subdir": "win-64",
+  "timestamp": 1738936651000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/tbb-2022.0.0-h214f63a_0.conda",
+  "version": "2022.0.0"
+}

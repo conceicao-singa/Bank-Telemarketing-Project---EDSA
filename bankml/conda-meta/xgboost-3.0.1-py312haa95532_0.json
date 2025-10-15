@@ -1,0 +1,32 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "py-xgboost 3.0.1 py312haa95532_0"
+  ],
+  "extracted_package_dir": "C:\\Users\\DELL\\anaconda3\\pkgs\\xgboost-3.0.1-py312haa95532_0",
+  "files": [],
+  "fn": "xgboost-3.0.1-py312haa95532_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\DELL\\anaconda3\\pkgs\\xgboost-3.0.1-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "8bd0dbbdc872f78127b397723242efee",
+  "name": "xgboost",
+  "package_tarball_full_path": "C:\\Users\\DELL\\anaconda3\\pkgs\\xgboost-3.0.1-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "xgboost==3.0.1=py312haa95532_0",
+  "sha256": "9ebadebec0df24679c77ba7127dd9b5957bebe6a445eca562870916ae1c80485",
+  "size": 14081,
+  "subdir": "win-64",
+  "timestamp": 1749631224000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/xgboost-3.0.1-py312haa95532_0.conda",
+  "version": "3.0.1"
+}
